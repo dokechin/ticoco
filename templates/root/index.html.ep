@@ -1,0 +1,7 @@
+% layout 'bootstrap';
+% title 'Ticoco - ティシュやサンプルの配布場所情報';
+<h1>Ticoco - ティシュやサンプルの配布場所情報<h1>
+<center>
+<iframe src="map.html" width="300" height="300" scrolling="NO" frameborder="0"></iframe>
+</center>
+

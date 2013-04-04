@@ -1,0 +1,11 @@
+% layout 'bootstrap';
+% title 'register';
+
+<p><%= $name %></p>
+
+
+
+
+
+
+
